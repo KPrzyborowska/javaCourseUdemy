@@ -7,8 +7,6 @@ public class ReadingUserInputChallenge {
     public void test() {
 
         Scanner scanner = new Scanner(System.in);
-//        //        scanner.nextLine();
-//        boolean hasNextInt = scanner.hasNextInt();
         int sum = 0;
         int counter = 1;
         while (counter <= 10) {
