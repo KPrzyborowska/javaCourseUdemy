@@ -25,3 +25,26 @@ public class ReadingUserInputChallenge {
         System.out.println("Sum of entered numbers is " + sum);
     }
 }
+//        while (true) {    //endless loop
+//            int order = counter + 1;
+//                System.out.print("Enter number #" + order + ": ");
+//
+//                boolean isAnInt = scanner.hasNextInt();
+//
+//                if (isAnInt) {
+//                int number = scanner.nextInt();
+//                counter++;
+//                sum += number;
+//                  if (counter == 10);
+//                  break;
+//                          }
+//                } else {
+//                System.out.println("Invalid value");
+//                }
+//                scanner.nextLine();
+//                }
+//                System.out.println("Sum = " + sum);
+//                scanner.close();
+//                  }
+//                  }
+
